@@ -170,4 +170,4 @@ This project was built as part of the **DecodeLabs Generative AI Internship Prog
 
 ---
 
-*Built with ❤️ by Babul Kumar & Manaswini — DecodeLabs GenAI Internship 2026*
+
