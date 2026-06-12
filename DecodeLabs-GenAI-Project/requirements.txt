@@ -1,0 +1,22 @@
+# DecodeLabs GenAI Project — Master Requirements
+# Install with: pip install -r requirements.txt
+
+# === Core AI APIs ===
+openai>=1.0.0
+groq>=0.4.0
+anthropic>=0.25.0
+
+# === Task 1 & General ===
+python-dotenv>=1.0.0
+
+# === Task 3 — RAG / PDF ===
+pymupdf>=1.24.0          # fitz — PDF text extraction
+streamlit>=1.35.0         # Web UI for RAG app
+
+# === Task 4 — Multimodal ===
+openai-whisper>=20231117  # Speech-to-text
+moviepy>=2.0.0            # Video/audio processing
+yt-dlp>=2024.1.1          # YouTube audio download
+
+# === Task 5 — Safety Audit ===
+# No extra dependencies beyond openai above

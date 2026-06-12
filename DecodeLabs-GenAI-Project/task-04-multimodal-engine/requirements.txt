@@ -1,0 +1,10 @@
+groq>=0.4.0
+openai-whisper>=20231117
+yt-dlp>=2024.1.1
+moviepy>=2.0.0
+python-dotenv>=1.0.0
+
+# Note: ffmpeg must be installed separately on your system
+# Windows: winget install ffmpeg
+# Mac:     brew install ffmpeg
+# Linux:   apt install ffmpeg
