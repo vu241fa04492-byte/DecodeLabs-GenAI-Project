@@ -2,16 +2,7 @@
 
 > **Team Project** | DecodeLabs GenAI Internship Program | June 2026
 
----
 
-## 👥 Team Members
-
-| Member | Tasks Handled |
-|--------|--------------|
-| **Babul Kumar** | Task 1, Task 2, Task 3, Task 4 (core), Task 5 (automation) |
-| **Manaswini** | Task 1 (chatbot), Task 3 (RAG app), Task 4 (reels), Task 5 (audit report) |
-
----
 
 ## 📁 Project Structure
 
